@@ -1,0 +1,10 @@
+text,label
+I love this product,Positive
+The service was excellent,Positive
+This is wonderful and useful,Positive
+I hate this product,Negative
+The service was terrible,Negative
+This is disappointing and poor,Negative
+The product arrived today,Neutral
+The service is available,Neutral
+The package contains three items,Neutral

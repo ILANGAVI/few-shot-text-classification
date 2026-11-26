@@ -1,0 +1,109 @@
+task_id,text,label
+sentiment_reviews,I absolutely love this product and use it every day,Positive
+sentiment_reviews,The quality is excellent and the delivery was quick,Positive
+sentiment_reviews,"Wonderful experience, the support team was very helpful",Positive
+sentiment_reviews,This purchase made me happy and satisfied,Positive
+sentiment_reviews,Amazing value for money and great performance,Positive
+sentiment_reviews,I am pleased with the product and recommend it,Positive
+sentiment_reviews,Fantastic service and friendly staff,Positive
+sentiment_reviews,"The app is useful, smooth and easy to use",Positive
+sentiment_reviews,Very happy with my order and the overall experience,Positive
+sentiment_reviews,"Brilliant product, it works exactly as expected",Positive
+sentiment_reviews,The packaging was good and the item is excellent,Positive
+sentiment_reviews,Great experience from start to finish,Positive
+sentiment_reviews,I hate this product and regret buying it,Negative
+sentiment_reviews,The quality is poor and the delivery was late,Negative
+sentiment_reviews,"Terrible experience, customer support was unhelpful",Negative
+sentiment_reviews,This purchase made me unhappy and disappointed,Negative
+sentiment_reviews,Awful value for money and bad performance,Negative
+sentiment_reviews,I am dissatisfied with the product and would not recommend it,Negative
+sentiment_reviews,Rude service and unfriendly staff,Negative
+sentiment_reviews,"The app is confusing, slow and difficult to use",Negative
+sentiment_reviews,Very unhappy with my order and the overall experience,Negative
+sentiment_reviews,"Worst product, it does not work as expected",Negative
+sentiment_reviews,The packaging was damaged and the item is defective,Negative
+sentiment_reviews,Bad experience from start to finish,Negative
+sentiment_reviews,The product arrived yesterday in a cardboard box,Neutral
+sentiment_reviews,The order contains one device and two cables,Neutral
+sentiment_reviews,The store is located near the main road,Neutral
+sentiment_reviews,The service is available from nine in the morning,Neutral
+sentiment_reviews,The package was delivered to the front desk,Neutral
+sentiment_reviews,The product has a screen and a charging port,Neutral
+sentiment_reviews,The app was installed on my phone this morning,Neutral
+sentiment_reviews,The invoice includes the item price and tax,Neutral
+sentiment_reviews,The shop opens at ten and closes at eight,Neutral
+sentiment_reviews,The device weighs about five hundred grams,Neutral
+sentiment_reviews,The order number is printed on the receipt,Neutral
+sentiment_reviews,The product comes in three different sizes,Neutral
+support_ticket_routing,Payment system is down and customers cannot pay,Urgent
+support_ticket_routing,Our production server has stopped responding,Urgent
+support_ticket_routing,Account compromised and unauthorized transfers are happening,Urgent
+support_ticket_routing,The website is unavailable for every customer,Urgent
+support_ticket_routing,Critical data loss has occurred after the system crash,Urgent
+support_ticket_routing,"Security breach detected, please respond immediately",Urgent
+support_ticket_routing,All users are locked out of the application,Urgent
+support_ticket_routing,Checkout failure is preventing all orders,Urgent
+support_ticket_routing,The database is offline and business operations stopped,Urgent
+support_ticket_routing,"Immediate help needed, service outage across locations",Urgent
+support_ticket_routing,A ransomware warning appeared on the company computer,Urgent
+support_ticket_routing,The network outage affects the entire office,Urgent
+support_ticket_routing,Please help me reset the application password,Technical
+support_ticket_routing,The printer driver is not installing correctly,Technical
+support_ticket_routing,I cannot connect my laptop to the office WiFi,Technical
+support_ticket_routing,The dashboard displays an unexpected error message,Technical
+support_ticket_routing,My software update is stuck at twenty percent,Technical
+support_ticket_routing,The mobile app closes whenever I open settings,Technical
+support_ticket_routing,I need help configuring email on a new device,Technical
+support_ticket_routing,The keyboard is not detected by my computer,Technical
+support_ticket_routing,The report export produces an unreadable file,Technical
+support_ticket_routing,My browser extension conflicts with the website,Technical
+support_ticket_routing,The monitor resolution changed after an update,Technical
+support_ticket_routing,Please troubleshoot the microphone connection,Technical
+support_ticket_routing,What are your customer support working hours,General
+support_ticket_routing,Please share the pricing details for the basic plan,General
+support_ticket_routing,I would like to know about available subscription options,General
+support_ticket_routing,Where can I find the user manual,General
+support_ticket_routing,Can you explain the refund policy,General
+support_ticket_routing,Please update the contact person for our account,General
+support_ticket_routing,I need information about the next product release,General
+support_ticket_routing,How can I change my billing address,General
+support_ticket_routing,Please send details about the training schedule,General
+support_ticket_routing,I want to know the warranty period,General
+support_ticket_routing,Can you provide a copy of the latest invoice,General
+support_ticket_routing,Where can I submit general product feedback,General
+news_topic_classification,The football team won the championship after extra time,Sports
+news_topic_classification,The cricket captain scored a century in the final match,Sports
+news_topic_classification,The athlete broke the national record in the race,Sports
+news_topic_classification,The club announced its squad for the tournament,Sports
+news_topic_classification,The tennis player advanced to the grand slam final,Sports
+news_topic_classification,Fans celebrated the team's victory at the stadium,Sports
+news_topic_classification,The coach discussed strategy before the league match,Sports
+news_topic_classification,The basketball team signed a new forward player,Sports
+news_topic_classification,The runner won a gold medal at the competition,Sports
+news_topic_classification,The referee reviewed the penalty decision,Sports
+news_topic_classification,The tournament begins with an opening ceremony,Sports
+news_topic_classification,The swimmer qualified for the international event,Sports
+news_topic_classification,The company launched a new artificial intelligence processor,Technology
+news_topic_classification,Researchers developed a faster wireless communication chip,Technology
+news_topic_classification,The smartphone update adds privacy and security features,Technology
+news_topic_classification,A startup introduced a cloud computing platform,Technology
+news_topic_classification,Engineers tested a new battery for electric devices,Technology
+news_topic_classification,The software release improves machine learning performance,Technology
+news_topic_classification,Scientists demonstrated a flexible wearable sensor,Technology
+news_topic_classification,The technology firm expanded its data center capacity,Technology
+news_topic_classification,A new operating system supports more applications,Technology
+news_topic_classification,Developers released an open source programming tool,Technology
+news_topic_classification,The robotics lab built an autonomous delivery machine,Technology
+news_topic_classification,The cybersecurity team found a software vulnerability,Technology
+news_topic_classification,The company reported higher quarterly revenue this year,Business
+news_topic_classification,The central bank announced a change in interest rates,Business
+news_topic_classification,The retailer plans to open new stores next year,Business
+news_topic_classification,The stock market closed higher after investor confidence improved,Business
+news_topic_classification,The firm announced a merger with a regional competitor,Business
+news_topic_classification,The manufacturer increased prices due to rising costs,Business
+news_topic_classification,The finance minister presented the annual budget,Business
+news_topic_classification,The startup raised funding from private investors,Business
+news_topic_classification,The company hired a new chief financial officer,Business
+news_topic_classification,Exports increased during the latest financial quarter,Business
+news_topic_classification,The bank introduced a new savings account,Business
+news_topic_classification,The business expanded operations into another market,Business
